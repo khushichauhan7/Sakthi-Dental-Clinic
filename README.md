@@ -22,7 +22,7 @@ This website aims to provide:
 
 ## 📁 Project Structure
 
-Sakthi-Dental-Clinic/
+Sakthi-Dental-Clinic/  
 ├── index.html # Homepage  
 ├── about.html # About the clinic  
 ├── contact.html # Contact form and location  
