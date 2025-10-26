@@ -23,14 +23,14 @@ This website aims to provide:
 ## 📁 Project Structure
 
 Sakthi-Dental-Clinic/
-├── index.html # Homepage
-├── about.html # About the clinic
-├── contact.html # Contact form and location
-├── faq.html # Frequently Asked Questions
-├── treatments.html # Dental treatment information
-├── style.css # Main stylesheet
-├── main.js # JavaScript for interactions
-└── privacy.html # Privacy policy
+├── index.html # Homepage  
+├── about.html # About the clinic  
+├── contact.html # Contact form and location  
+├── faq.html # Frequently Asked Questions  
+├── treatments.html # Dental treatment information  
+├── style.css # Main stylesheet  
+├── main.js # JavaScript for interactions  
+└── privacy.html # Privacy policy  
 
 
 ## 🚀 Getting Started
