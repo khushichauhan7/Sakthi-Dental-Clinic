@@ -42,8 +42,4 @@ To run the website locally:
 ```bash
 git clone https://github.com/khushichauhan7/Sakthi-Dental-Clinic.git
 
-2. Navigate to the project directory
-
 cd Sakthi-Dental-Clinic
-
-3. Open index.html in your preferred web browser.
